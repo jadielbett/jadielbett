@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on flutter payment integration<br>👯 I’m looking to collaborate on flutter projects<br>🌱 I’m currently learning python<br>💬 Ask me about AI <br>⚡ Fun fact, I am a huge astronomy fan. <br>~ staring at the stars is taking a glimpse into heaven
+🔭 I’m currently working on flutter payment integration<br>👯 I’m looking to collaborate on flutter projects<br>🌱 I’m currently learning Datascience and ML<br>💬 Ask me about AI <br>⚡ Fun fact, I am a huge astronomy fan. <br>~ staring at the stars is taking a glimpse into heaven
 
 
 ## 🌐 Socials:
